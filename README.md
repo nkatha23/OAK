@@ -1,6 +1,6 @@
 # OAK
-FarmConnect - E-commerce Platform for Farmers
-FarmConnect is an e-commerce platform designed to connect small and large-scale farmers directly with buyers (corporate and individual) to improve market access, fair pricing, and facilitate easy transactions. Farmers can upload their products, manage inventory, and sell directly to consumers, while buyers can access various products from farmers, search, filter, and place orders securely.
+OakNet - E-commerce Platform for Farmers
+OakNet is an e-commerce platform designed to connect small and large-scale farmers directly with buyers (corporate and individual) to improve market access, fair pricing, and facilitate easy transactions. Farmers can upload their products, manage inventory, and sell directly to consumers, while buyers can access various products from farmers, search, filter, and place orders securely.
 
 Table of Contents
 Project Overview
@@ -24,6 +24,7 @@ Order Management: Buyers can place orders, view their orders, and track order st
 Payment Integration: Support for M-Pesa, Stripe, or PayPal payments.
 Admin Dashboard: Admins can manage users, approve/reject products, and view overall platform analytics.
 Role-based Access: Differentiated access for farmers, buyers, and admins.
+
 Tech Stack
 Frontend: ReactJS, React Router, Axios
 Backend: Node.js, Express.js
@@ -41,7 +42,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/farmconnect.git
+git clone https://github.com/nkatha23/OAK.git
 cd farmconnect
 Navigate to the frontend directory:
 
